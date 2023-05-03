@@ -1,0 +1,25 @@
+
+Time: 1
+Waiting clients: [(1, 4, 24), (2, 12, 6), (3, 21, 25), (4, 13, 17)]
+Queue1: CLOSED!
+Queue2: CLOSED!
+Time: 2
+Waiting clients: [(1, 4, 24), (2, 12, 6), (3, 21, 25), (4, 13, 17)]
+Queue1: CLOSED!
+Queue2: CLOSED!
+Time: 3
+Waiting clients: [(1, 4, 24), (2, 12, 6), (3, 21, 25), (4, 13, 17)]
+Queue1: CLOSED!
+Queue2: CLOSED!
+Time: 4
+Waiting clients: [(2, 12, 6), (3, 21, 25), (4, 13, 17)]
+Queue1: (1, 4, 24)
+Queue2: CLOSED!
+Time: 5
+Waiting clients: [(2, 12, 6), (3, 21, 25), (4, 13, 17)]
+Queue1: (1, 4, 23)
+Queue2: CLOSED!
+Time: 6
+Waiting clients: [(2, 12, 6), (3, 21, 25), (4, 13, 17)]
+Queue1: (1, 4, 22)
+Queue2: CLOSED!
