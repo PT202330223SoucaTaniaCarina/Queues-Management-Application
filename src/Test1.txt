@@ -1,0 +1,243 @@
+
+Time: 1
+Waiting clients: [(4, 3, 3), (3, 4, 3), (1, 15, 4), (2, 26, 3)]
+Queue1: CLOSED!
+Queue2: CLOSED!
+Time: 2
+Waiting clients: [(4, 3, 3), (3, 4, 3), (1, 15, 4), (2, 26, 3)]
+Queue1: CLOSED!
+Queue2: CLOSED!
+Time: 3
+Waiting clients: [(3, 4, 3), (1, 15, 4), (2, 26, 3)]
+Queue1: (4, 3, 3)
+Queue2: CLOSED!
+Time: 4
+Waiting clients: [(1, 15, 4), (2, 26, 3)]
+Queue1: (4, 3, 2)
+Queue2: (3, 4, 3)
+Time: 5
+Waiting clients: [(1, 15, 4), (2, 26, 3)]
+Queue1: (4, 3, 1)
+Queue2: (3, 4, 2)
+Time: 6
+Waiting clients: [(1, 15, 4), (2, 26, 3)]
+Queue1:
+Queue2: (3, 4, 1)
+Time: 7
+Waiting clients: [(1, 15, 4), (2, 26, 3)]
+Queue1:
+Queue2:
+Time: 8
+Waiting clients: [(1, 15, 4), (2, 26, 3)]
+Queue1:
+Queue2:
+Time: 9
+Waiting clients: [(1, 15, 4), (2, 26, 3)]
+Queue1:
+Queue2:
+Time: 10
+Waiting clients: [(1, 15, 4), (2, 26, 3)]
+Queue1:
+Queue2:
+Time: 11
+Waiting clients: [(1, 15, 4), (2, 26, 3)]
+Queue1:
+Queue2:
+Time: 12
+Waiting clients: [(1, 15, 4), (2, 26, 3)]
+Queue1:
+Queue2:
+Time: 13
+Waiting clients: [(1, 15, 4), (2, 26, 3)]
+Queue1:
+Queue2:
+Time: 14
+Waiting clients: [(1, 15, 4), (2, 26, 3)]
+Queue1:
+Queue2:
+Time: 15
+Waiting clients: [(2, 26, 3)]
+Queue1: (1, 15, 4)
+Queue2:
+Time: 16
+Waiting clients: [(2, 26, 3)]
+Queue1: (1, 15, 3)
+Queue2:
+Time: 17
+Waiting clients: [(2, 26, 3)]
+Queue1: (1, 15, 2)
+Queue2:
+Time: 18
+Waiting clients: [(2, 26, 3)]
+Queue1: (1, 15, 1)
+Queue2:
+Time: 19
+Waiting clients: [(2, 26, 3)]
+Queue1:
+Queue2:
+Time: 20
+Waiting clients: [(2, 26, 3)]
+Queue1:
+Queue2:
+Time: 21
+Waiting clients: [(2, 26, 3)]
+Queue1:
+Queue2:
+Time: 22
+Waiting clients: [(2, 26, 3)]
+Queue1:
+Queue2:
+Time: 23
+Waiting clients: [(2, 26, 3)]
+Queue1:
+Queue2:
+Time: 24
+Waiting clients: [(2, 26, 3)]
+Queue1:
+Queue2:
+Time: 25
+Waiting clients: [(2, 26, 3)]
+Queue1:
+Queue2:
+Time: 26
+Waiting clients: []
+Queue1: (2, 26, 3)
+Queue2:
+Time: 27
+Waiting clients: []
+Queue1: (2, 26, 2)
+Queue2:
+Time: 28
+Waiting clients: []
+Queue1: (2, 26, 1)
+Queue2:
+Time: 29
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 30
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 31
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 32
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 33
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 34
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 35
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 36
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 37
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 38
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 39
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 40
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 41
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 42
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 43
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 44
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 45
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 46
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 47
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 48
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 49
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 50
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 51
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 52
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 53
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 54
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 55
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 56
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 57
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 58
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 59
+Waiting clients: []
+Queue1:
+Queue2:
+Time: 60
+Waiting clients: []
+Queue1:
+Queue2:
+Average service time: 3.25
+Peak Hour: 29.0
